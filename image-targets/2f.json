@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/2f_luminance.png",
+  "resources": {
+    "originalImage": "2f_original.png",
+    "croppedImage": "2f_cropped.png",
+    "thumbnailImage": "2f_thumbnail.png",
+    "luminanceImage": "2f_luminance.png"
+  },
+  "name": "2f",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 3543,
+    "height": 4724,
+    "isRotated": true,
+    "originalWidth": 3543,
+    "originalHeight": 4724
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795196380119,
+  "updated": 1795196380119
+}

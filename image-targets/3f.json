@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/3f_luminance.png",
+  "resources": {
+    "originalImage": "3f_original.png",
+    "croppedImage": "3f_cropped.png",
+    "thumbnailImage": "3f_thumbnail.png",
+    "luminanceImage": "3f_luminance.png"
+  },
+  "name": "3f",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 3543,
+    "height": 4724,
+    "isRotated": true,
+    "originalWidth": 3543,
+    "originalHeight": 4724
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795196382295,
+  "updated": 1795196382295
+}

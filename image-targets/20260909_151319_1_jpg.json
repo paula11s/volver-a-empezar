@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/20260909_151319_1_jpg_luminance.png",
+  "resources": {
+    "originalImage": "20260909_151319_1_jpg_original.png",
+    "croppedImage": "20260909_151319_1_jpg_cropped.png",
+    "thumbnailImage": "20260909_151319_1_jpg_thumbnail.png",
+    "luminanceImage": "20260909_151319_1_jpg_luminance.png"
+  },
+  "name": "20260909_151319_1_jpg",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 281,
+    "width": 1689,
+    "height": 2252,
+    "isRotated": true,
+    "originalWidth": 2251,
+    "originalHeight": 2252
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795196379406,
+  "updated": 1795196379406
+}
