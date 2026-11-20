@@ -30,34 +30,6 @@
         1
       ]
     },
-    "07578711-e167-4cb4-8e15-fe0a72f21e42": {
-      "components": {},
-      "geometry": null,
-      "id": "07578711-e167-4cb4-8e15-fe0a72f21e42",
-      "imageTarget": {
-        "name": "activador_5"
-      },
-      "material": null,
-      "name": "Marcador · activador_5",
-      "order": 8.5,
-      "parentId": "02af8103-6c8e-4e33-9c87-56c07f3f929c",
-      "position": [
-        0,
-        0,
-        0
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ]
-    },
     "105333f0-9c61-44c7-b7f1-6465ec9883bd": {
       "components": {
         "__inre_aparicion__": {
@@ -312,7 +284,7 @@
       "position": [
         0,
         0,
-        0.008
+        0.049
       ],
       "rotation": [
         0,
@@ -515,18 +487,18 @@
         }
       },
       "name": "5",
-      "order": 0.8694172440121927,
-      "parentId": "07578711-e167-4cb4-8e15-fe0a72f21e42",
+      "order": 0.6503406779872128,
+      "parentId": "fa6c02e8-df42-421b-ac18-6b8fa692213f",
       "position": [
         0,
         0,
-        0
+        0.040000000000000015
       ],
       "rotation": [
         0,
         0,
         0,
-        1
+        1.0000000000000002
       ],
       "scale": [
         1,
@@ -563,6 +535,34 @@
         0,
         0.546,
         0.044
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "fa6c02e8-df42-421b-ac18-6b8fa692213f": {
+      "components": {},
+      "geometry": null,
+      "id": "fa6c02e8-df42-421b-ac18-6b8fa692213f",
+      "imageTarget": {
+        "name": "Recurso_4-100"
+      },
+      "material": null,
+      "name": "Marcador · Recurso_4-100",
+      "order": 12.5,
+      "parentId": "02af8103-6c8e-4e33-9c87-56c07f3f929c",
+      "position": [
+        0,
+        0,
+        0
       ],
       "rotation": [
         0,
