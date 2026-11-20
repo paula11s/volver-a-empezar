@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/activador_5_luminance.png",
+  "resources": {
+    "originalImage": "activador_5_original.png",
+    "croppedImage": "activador_5_cropped.png",
+    "thumbnailImage": "activador_5_thumbnail.png",
+    "luminanceImage": "activador_5_luminance.png"
+  },
+  "name": "activador_5",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 44,
+    "left": 0,
+    "width": 304,
+    "height": 405,
+    "isRotated": true,
+    "originalWidth": 304,
+    "originalHeight": 492
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795200322259,
+  "updated": 1795200322259
+}
