@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/4_y_5_luminance.png",
+  "resources": {
+    "originalImage": "4_y_5_original.png",
+    "croppedImage": "4_y_5_cropped.png",
+    "thumbnailImage": "4_y_5_thumbnail.png",
+    "luminanceImage": "4_y_5_luminance.png"
+  },
+  "name": "4_y_5",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 209,
+    "left": 0,
+    "width": 941,
+    "height": 1255,
+    "isRotated": true,
+    "originalWidth": 941,
+    "originalHeight": 1672
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795198040418,
+  "updated": 1795198040418
+}

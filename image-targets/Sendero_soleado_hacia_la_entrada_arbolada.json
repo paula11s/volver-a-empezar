@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/Sendero_soleado_hacia_la_entrada_arbolada_luminance.png",
+  "resources": {
+    "originalImage": "Sendero_soleado_hacia_la_entrada_arbolada_original.png",
+    "croppedImage": "Sendero_soleado_hacia_la_entrada_arbolada_cropped.png",
+    "thumbnailImage": "Sendero_soleado_hacia_la_entrada_arbolada_thumbnail.png",
+    "luminanceImage": "Sendero_soleado_hacia_la_entrada_arbolada_luminance.png"
+  },
+  "name": "Sendero_soleado_hacia_la_entrada_arbolada",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 209,
+    "left": 0,
+    "width": 941,
+    "height": 1255,
+    "isRotated": true,
+    "originalWidth": 941,
+    "originalHeight": 1672
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795197929848,
+  "updated": 1795197929848
+}
