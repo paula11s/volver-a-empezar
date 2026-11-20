@@ -1,20 +1,27 @@
-# Volver a empezar
+# Mi experiencia AR
 
 Experiencia de realidad aumentada creada con Zence Inverse Reality.
 
 **Modo:** World Effects (anclaje al suelo con SLAM)
-**Hosting:** GitHub Pages
-**En vivo:** https://paula11s.github.io/volver-a-empezar/
+**Hosting:** Vercel
+**En vivo:** la asigna Vercel al conectar el repositorio
 
 ---
 
 ## Cómo se publica
 
-Cada `push` a `main` dispara `.github/workflows/deploy.yml`, que compila el
-proyecto y lo publica en GitHub Pages. No hay que hacer nada más: **editar y guardar
-desde Zence Inverse Reality crea un commit, y el commit actualiza la experiencia.**
+En Vercel: **Add New → Project**, importa este repositorio y despliega. No hay nada
+que rellenar, porque `vercel.json` ya lo trae:
 
-Si es la primera vez, activa Pages en *Settings → Pages → Source: GitHub Actions*.
+| Ajuste | Valor | De dónde sale |
+| --- | --- | --- |
+| Framework Preset | Other | `vercel.json` |
+| Build Command | `npm run build` | `vercel.json` |
+| Output Directory | `dist` | `vercel.json` |
+| Node.js Version | la LTS más nueva | `engines` del `package.json` |
+
+Hecho eso, **cada `push` a `main` vuelve a desplegar**: editar y guardar desde Zence Inverse Reality
+crea un commit, y el commit actualiza la experiencia.
 
 ## Cómo editarlo
 

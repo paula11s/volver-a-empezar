@@ -30,6 +30,34 @@
         1
       ]
     },
+    "07578711-e167-4cb4-8e15-fe0a72f21e42": {
+      "components": {},
+      "geometry": null,
+      "id": "07578711-e167-4cb4-8e15-fe0a72f21e42",
+      "imageTarget": {
+        "name": "activador_5"
+      },
+      "material": null,
+      "name": "Marcador · activador_5",
+      "order": 8.5,
+      "parentId": "02af8103-6c8e-4e33-9c87-56c07f3f929c",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
     "105333f0-9c61-44c7-b7f1-6465ec9883bd": {
       "components": {
         "__inre_aparicion__": {
@@ -64,7 +92,7 @@
       "position": [
         -0.003,
         -0.002,
-        0.462
+        0.006
       ],
       "rotation": [
         0,
@@ -82,41 +110,21 @@
         "paused": false
       }
     },
-    "1d70ac83-a0d1-4104-befc-dfd9f95d194e": {
-      "components": {
-        "__inre_aparicion__": {
-          "id": "__inre_aparicion__",
-          "name": "inre-aparicion",
-          "parameters": {
-            "cubo": 0.664,
-            "demora": 0,
-            "esGltf": false,
-            "esTextura": true,
-            "esVideo": true
-          }
-        }
+    "1be47f97-e350-48c5-b7e5-f92f3e71a00b": {
+      "components": {},
+      "geometry": null,
+      "id": "1be47f97-e350-48c5-b7e5-f92f3e71a00b",
+      "imageTarget": {
+        "name": "4_y_5"
       },
-      "geometry": {
-        "type": "plane",
-        "width": 1,
-        "height": 0.5625
-      },
-      "id": "1d70ac83-a0d1-4104-befc-dfd9f95d194e",
-      "material": {
-        "type": "video",
-        "color": "#ffffff",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/4.mp4"
-        }
-      },
-      "name": "4",
-      "order": 0.8707343662460107,
-      "parentId": "6d971bc8-a2a6-43e3-a862-0118cc50e395",
+      "material": null,
+      "name": "Marcador · 4_y_5",
+      "order": 7.5,
+      "parentId": "02af8103-6c8e-4e33-9c87-56c07f3f929c",
       "position": [
         0,
-        -5.551115123125783e-17,
-        0.28125000000000006
+        0,
+        0
       ],
       "rotation": [
         0,
@@ -128,11 +136,7 @@
         1,
         1,
         1
-      ],
-      "videoControls": {
-        "loop": true,
-        "paused": false
-      }
+      ]
     },
     "294758d8-e2ce-4e0a-a721-c974cb44e9bd": {
       "components": {},
@@ -246,67 +250,13 @@
         1
       ]
     },
-    "6d971bc8-a2a6-43e3-a862-0118cc50e395": {
-      "components": {},
-      "geometry": null,
-      "id": "6d971bc8-a2a6-43e3-a862-0118cc50e395",
-      "imageTarget": {
-        "name": "4_y_5"
-      },
-      "material": null,
-      "name": "Marcador · 4_y_5",
-      "order": 8.5,
-      "parentId": "02af8103-6c8e-4e33-9c87-56c07f3f929c",
-      "position": [
-        0,
-        0,
-        0
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ]
-    },
-    "85fa4815-b921-47d4-ab8d-9de61d8b459f": {
-      "components": {},
-      "geometry": null,
-      "id": "85fa4815-b921-47d4-ab8d-9de61d8b459f",
-      "imageTarget": {
-        "name": "activador_5"
-      },
-      "material": null,
-      "name": "Marcador · activador_5",
-      "order": 9.5,
-      "parentId": "02af8103-6c8e-4e33-9c87-56c07f3f929c",
-      "position": [
-        0,
-        0,
-        0
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ]
-    },
     "88506be9-e542-470a-beb3-e722a5acf74f": {
       "components": {},
       "geometry": null,
       "id": "88506be9-e542-470a-beb3-e722a5acf74f",
-      "imageTarget": null,
+      "imageTarget": {
+        "name": "activador_6"
+      },
       "material": null,
       "name": "Marcador · activador_6",
       "order": 6.5,
@@ -328,7 +278,7 @@
         1
       ]
     },
-    "8a326b3c-ad92-472b-9f8e-09672d163c71": {
+    "8f1a86b3-d9f8-42e1-b769-a79aaf7f21df": {
       "components": {
         "__inre_aparicion__": {
           "id": "__inre_aparicion__",
@@ -347,22 +297,74 @@
         "width": 1,
         "height": 0.5625
       },
-      "id": "8a326b3c-ad92-472b-9f8e-09672d163c71",
+      "id": "8f1a86b3-d9f8-42e1-b769-a79aaf7f21df",
       "material": {
         "type": "video",
         "color": "#ffffff",
         "textureSrc": {
           "type": "asset",
-          "asset": "assets/5.mp4"
+          "asset": "assets/4.mp4"
         }
       },
-      "name": "5",
-      "order": 0.9770243176925096,
-      "parentId": "85fa4815-b921-47d4-ab8d-9de61d8b459f",
+      "name": "4",
+      "order": 0.9915918930877207,
+      "parentId": "1be47f97-e350-48c5-b7e5-f92f3e71a00b",
       "position": [
         0,
         0,
-        -0.002
+        0.008
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "a324ab7f-e0fd-4e7b-b7c5-1aeb6198e009": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "a324ab7f-e0fd-4e7b-b7c5-1aeb6198e009",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/6.mp4"
+        }
+      },
+      "name": "6",
+      "order": 0.8997655570463763,
+      "parentId": "88506be9-e542-470a-beb3-e722a5acf74f",
+      "position": [
+        0,
+        0,
+        0.017
       ],
       "rotation": [
         0,
@@ -414,7 +416,7 @@
       "position": [
         0,
         0,
-        0.704
+        0.023
       ],
       "rotation": [
         0,
@@ -466,7 +468,59 @@
       "position": [
         0,
         0,
-        0.298
+        0.005
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "c33bdbfe-f2b9-4789-a6aa-cfa803eddf7e": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "c33bdbfe-f2b9-4789-a6aa-cfa803eddf7e",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/5.mp4"
+        }
+      },
+      "name": "5",
+      "order": 0.8694172440121927,
+      "parentId": "07578711-e167-4cb4-8e15-fe0a72f21e42",
+      "position": [
+        0,
+        0,
+        0
       ],
       "rotation": [
         0,
@@ -521,58 +575,6 @@
         1,
         1
       ]
-    },
-    "fac66b2b-840f-4232-8e50-b40d10f74a08": {
-      "components": {
-        "__inre_aparicion__": {
-          "id": "__inre_aparicion__",
-          "name": "inre-aparicion",
-          "parameters": {
-            "cubo": 0.664,
-            "demora": 0,
-            "esGltf": false,
-            "esTextura": true,
-            "esVideo": true
-          }
-        }
-      },
-      "geometry": {
-        "type": "plane",
-        "width": 1,
-        "height": 0.5625
-      },
-      "id": "fac66b2b-840f-4232-8e50-b40d10f74a08",
-      "material": {
-        "type": "video",
-        "color": "#ffffff",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/6.mp4"
-        }
-      },
-      "name": "6",
-      "order": 0.5794518284949898,
-      "parentId": "88506be9-e542-470a-beb3-e722a5acf74f",
-      "position": [
-        0,
-        0,
-        0.008
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ],
-      "videoControls": {
-        "loop": true,
-        "paused": false
-      }
     }
   },
   "spaces": {

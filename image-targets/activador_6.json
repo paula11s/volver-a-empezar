@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/activador_6_luminance.png",
+  "resources": {
+    "originalImage": "activador_6_original.png",
+    "croppedImage": "activador_6_cropped.png",
+    "thumbnailImage": "activador_6_thumbnail.png",
+    "luminanceImage": "activador_6_luminance.png"
+  },
+  "name": "activador_6",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 240,
+    "left": 0,
+    "width": 1080,
+    "height": 1440,
+    "isRotated": true,
+    "originalWidth": 1080,
+    "originalHeight": 1920
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795200861262,
+  "updated": 1795200861262
+}
