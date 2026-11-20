@@ -326,6 +326,58 @@
         1
       ]
     },
+    "9e069090-e5b2-4993-adc3-2096a41f9750": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0.08,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "9e069090-e5b2-4993-adc3-2096a41f9750",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/1.mp4"
+        }
+      },
+      "name": "4",
+      "order": 1.6567959023458623,
+      "parentId": "e45fd152-bd07-486a-945f-6a5187a3e642",
+      "position": [
+        0,
+        0,
+        0.022
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
     "ab1947d5-f6ce-4b40-a7bc-ab77866bfbee": {
       "components": {},
       "geometry": null,
