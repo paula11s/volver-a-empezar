@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/lv_0_20261120025052_1_luminance.png",
+  "resources": {
+    "originalImage": "lv_0_20261120025052_1_original.png",
+    "croppedImage": "lv_0_20261120025052_1_cropped.png",
+    "thumbnailImage": "lv_0_20261120025052_1_thumbnail.png",
+    "luminanceImage": "lv_0_20261120025052_1_luminance.png"
+  },
+  "name": "lv_0_20261120025052_1",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 240,
+    "left": 0,
+    "width": 1080,
+    "height": 1440,
+    "isRotated": true,
+    "originalWidth": 1080,
+    "originalHeight": 1920
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795206557209,
+  "updated": 1795206557209
+}

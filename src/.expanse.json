@@ -194,6 +194,58 @@
         1
       ]
     },
+    "4942b4ec-2519-4efd-bd91-6fcd7b780eb9": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "4942b4ec-2519-4efd-bd91-6fcd7b780eb9",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/4.mp4"
+        }
+      },
+      "name": "4",
+      "order": 0.7953357051996021,
+      "parentId": "1be47f97-e350-48c5-b7e5-f92f3e71a00b",
+      "position": [
+        0,
+        0,
+        0.01
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
     "63bedbd9-81da-404b-8969-5da350bd2680": {
       "components": {},
       "geometry": null,
@@ -222,6 +274,86 @@
         1
       ]
     },
+    "77406fae-fd31-4a3a-b5b7-0155a5a47caf": {
+      "components": {},
+      "geometry": null,
+      "id": "77406fae-fd31-4a3a-b5b7-0155a5a47caf",
+      "imageTarget": {
+        "name": "lv_0_20261120025052_1"
+      },
+      "material": null,
+      "name": "Marcador · lv_0_20261120025052_1",
+      "order": 8.5,
+      "parentId": "02af8103-6c8e-4e33-9c87-56c07f3f929c",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "7bd03c5a-859b-4882-ad23-066daf5029a2": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "7bd03c5a-859b-4882-ad23-066daf5029a2",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/5.mp4"
+        }
+      },
+      "name": "5",
+      "order": 0.5787585354234065,
+      "parentId": "77406fae-fd31-4a3a-b5b7-0155a5a47caf",
+      "position": [
+        0,
+        0,
+        0.031
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
     "88506be9-e542-470a-beb3-e722a5acf74f": {
       "components": {},
       "geometry": null,
@@ -249,58 +381,6 @@
         1,
         1
       ]
-    },
-    "8f1a86b3-d9f8-42e1-b769-a79aaf7f21df": {
-      "components": {
-        "__inre_aparicion__": {
-          "id": "__inre_aparicion__",
-          "name": "inre-aparicion",
-          "parameters": {
-            "cubo": 0.664,
-            "demora": 0,
-            "esGltf": false,
-            "esTextura": true,
-            "esVideo": true
-          }
-        }
-      },
-      "geometry": {
-        "type": "plane",
-        "width": 1,
-        "height": 0.5625
-      },
-      "id": "8f1a86b3-d9f8-42e1-b769-a79aaf7f21df",
-      "material": {
-        "type": "video",
-        "color": "#ffffff",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/4.mp4"
-        }
-      },
-      "name": "4",
-      "order": 0.9915918930877207,
-      "parentId": "1be47f97-e350-48c5-b7e5-f92f3e71a00b",
-      "position": [
-        0,
-        0,
-        0.049
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ],
-      "videoControls": {
-        "loop": true,
-        "paused": false
-      }
     },
     "a324ab7f-e0fd-4e7b-b7c5-1aeb6198e009": {
       "components": {
@@ -458,58 +538,6 @@
         "paused": false
       }
     },
-    "c33bdbfe-f2b9-4789-a6aa-cfa803eddf7e": {
-      "components": {
-        "__inre_aparicion__": {
-          "id": "__inre_aparicion__",
-          "name": "inre-aparicion",
-          "parameters": {
-            "cubo": 0.664,
-            "demora": 0,
-            "esGltf": false,
-            "esTextura": true,
-            "esVideo": true
-          }
-        }
-      },
-      "geometry": {
-        "type": "plane",
-        "width": 1,
-        "height": 0.5625
-      },
-      "id": "c33bdbfe-f2b9-4789-a6aa-cfa803eddf7e",
-      "material": {
-        "type": "video",
-        "color": "#ffffff",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/5.mp4"
-        }
-      },
-      "name": "5",
-      "order": 0.6503406779872128,
-      "parentId": "fa6c02e8-df42-421b-ac18-6b8fa692213f",
-      "position": [
-        0,
-        0,
-        0.040000000000000015
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1.0000000000000002
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ],
-      "videoControls": {
-        "loop": true,
-        "paused": false
-      }
-    },
     "df25645e-ea28-4897-b9b4-7e9ae3944a93": {
       "camera": {
         "type": "perspective",
@@ -535,34 +563,6 @@
         0,
         0.546,
         0.044
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ]
-    },
-    "fa6c02e8-df42-421b-ac18-6b8fa692213f": {
-      "components": {},
-      "geometry": null,
-      "id": "fa6c02e8-df42-421b-ac18-6b8fa692213f",
-      "imageTarget": {
-        "name": "Recurso_4-100"
-      },
-      "material": null,
-      "name": "Marcador · Recurso_4-100",
-      "order": 12.5,
-      "parentId": "02af8103-6c8e-4e33-9c87-56c07f3f929c",
-      "position": [
-        0,
-        0,
-        0
       ],
       "rotation": [
         0,
